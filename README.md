@@ -39,7 +39,6 @@ Próximamente...
 ### 🌐 Encuéntrame en:
 <p align="center">
   <a href="https://github.com/Morales71"><img src="https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
-  <a href="#your-linkedin-url"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="mailto:jhotinmoralesvargas83@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
 
