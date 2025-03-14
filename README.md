@@ -30,7 +30,6 @@ Resolver problemas complejos y optimizar el rendimiento del código. 🚀
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" height="30px">
 </p>
 
-
 ---
 
 ### 📂 Proyectos Destacados
@@ -39,6 +38,7 @@ Próximamente...
 ### 🌐 Encuéntrame en:
 <p align="center">
   <a href="https://github.com/Morales71"><img src="https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+  <a href="https://twitter.com/TuNombreDeUsuarioX"><img src="https://img.shields.io/badge/X-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" alt="X (Twitter)"></a>
   <a href="mailto:jhotinmoralesvargas83@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
 
@@ -46,3 +46,4 @@ Próximamente...
 
 ⚡ **Dato curioso:**  
 _Siempre estoy buscando nuevos retos para mejorar mis habilidades._ 💪
+
