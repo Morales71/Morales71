@@ -38,5 +38,5 @@ Próximamente...
 ### 🌐 Encuéntrame en:
 <p align="center">
   <a href="https://github.com/Morales71"><img src="https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
-  <a href="https://x.com/TuNombreDeUsuarioX"><img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=x&logoColor=white" alt="Twitter (X)"></a>
+  <a href="https://x.com/TuNombreDeUsuarioX"><img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=x&logoColor=white" alt="X"></a>
   <a href
