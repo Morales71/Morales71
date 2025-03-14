@@ -26,9 +26,7 @@ Desarrollador apasionado por crear soluciones innovadoras y funcionales con una 
 Un sitio profesional que muestra mis habilidades y proyectos. ¡Echa un vistazo!
 
 ### 🛠️ Otros proyectos
-- **Mi pirtafollios(#):**Estoy trabajando en mi portafolios, no algo del otro mundo, pero spi está quedando de lujo, en unos días haré el repositorio publico.
-- **[Proyecto B](#):** Breve descripción sobre su funcionalidad.
-
+- **Mi portafolios(#):**Estoy trabajando en mi portafolios, no algo del otro mundo, pero spi está quedando de lujo, en unos días haré el repositorio publico.
 ---
 
 ## 🌐 Encuéntrame en:
