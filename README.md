@@ -22,7 +22,6 @@ Resolver problemas complejos y optimizar el rendimiento del código. 🚀
 ---
 
 ### 💻 Tecnologías
-### 💻 Tecnologías
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" height="30px">
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" height="30px">
@@ -35,14 +34,7 @@ Resolver problemas complejos y optimizar el rendimiento del código. 🚀
 ---
 
 ### 📂 Proyectos Destacados
-#### 🌐 [Mi Portafolio Web](https://morales71.github.io/Mi-web/)
-_Un sitio profesional que muestra mis habilidades y proyectos. ¡Echa un vistazo!_
-
-#### 🛠️ Otros Proyectos
-- **[Proyecto A](#):** Breve descripción sobre este proyecto.  
-- **[Proyecto B](#):** Otra breve descripción interesante.  
-
----
+Próximamente...
 
 ### 🌐 Encuéntrame en:
 <p align="center">
