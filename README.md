@@ -51,9 +51,6 @@ Próximamente...
 
 ---
 
-### 📂 Proyectos Destacados
-Próximamente...
-
 ## 🌍 Encuéntrame en:
 
 <div align="center">
