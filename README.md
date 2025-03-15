@@ -54,13 +54,10 @@ Próximamente...
 ## 🌍 Encuéntrame en:
 
 <div align="center">
-  <a href="[https://x.com/TU_USUARIO_X](https://x.com/Morales_783)" target="_blank" style="text-decoration: none; color: inherit;">
-    <img src="X.svg" alt="X" width="120" style="display: inline-block; margin-bottom: 10px;">
+  <a href="https://x.com/Morales_783" target="_blank">
+    <img src="X.svg" alt="X" width="120" style="display: inline-block; cursor: pointer;">
   </a>
 </div>
-
-
-
 
 
 
