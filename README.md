@@ -21,29 +21,6 @@ Resolver problemas complejos y optimizar el rendimiento del código. 🚀
 
 ---
 
-<h1 align="center">¡Hola! 👋 Soy MoraDev</h1>
-<p align="center">
-  <img src="https://img.shields.io/github/followers/Morales71?style=social" alt="GitHub Followers">
-  <img src="https://img.shields.io/github/stars/Morales71?style=social" alt="GitHub Stars">
-</p>
-
----
-
-### 🌟 Sobre mí
-🌱 **Actualmente trabajando en:**  
-**Mi portafolio web**.  
-
-📘 **Estoy aprendiendo:**  
-**ReactJS** y **Desarrollo Backend con Node.js**.
-
-🤝 **Colaboración:**  
-Abierto a participar en proyectos que marquen la diferencia.
-
-💡 **Pasión:**  
-Resolver problemas complejos y optimizar el rendimiento del código. 🚀
-
----
-
 ## 💻 Tecnologías
 
 <table>
